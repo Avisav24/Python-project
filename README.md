@@ -75,7 +75,7 @@ Exit # Close the application
 
 
 ## 🏗️ Code Structure
-
+---
 alumni_system.py
 ├── Data Validation Functions
 │ ├── is_valid_contact() # Validates 10-digit phone numbers
@@ -89,7 +89,7 @@ alumni_system.py
 │ ├── generate_random_alumni() # Auto-generate sample data
 │ └── list_all_alumni() # Display all records
 └── main() # Main application loop
-
+---
 
 ## 🔍 Data Validation
 
@@ -149,7 +149,7 @@ alumni = {
 
 If you encounter any issues or have questions:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: [abhinav.is.av@gmail.com]
 
 ## 📄 License
 
